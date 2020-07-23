@@ -1,0 +1,35 @@
+.main-div {
+  text-align: center;
+}
+.primary-text {
+  font-size: 24px;
+  font-family: "Segoe UI";
+  padding: 10px;
+}
+.secondary-text {
+  font-size: 16px;
+  font-family: initial;
+}
+.temp-text {
+  font-size: 44px;
+  font-weight: bolder;
+  font-family: serif;
+  padding-bottom: 10px;
+}
+
+.div-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.div-temp-box {
+  margin-top: 7px;
+}
+
+.page-button {
+  color: black;
+  background-color: white;
+}
+.page-button:hover {
+  background-color: #00000045;
+}
